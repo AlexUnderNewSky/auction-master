@@ -1,0 +1,71 @@
+paper {
+    margin: 10px 5px;
+    padding: 5px;
+    background-color: #268777;
+    color: white;
+}
+
+textField {
+    color: white;
+    padding: 10px;
+}
+
+halfPage {
+    padding: 15px 30px;
+}
+
+mainPhoto {
+    width: 100%;
+    margin-right: 15px;
+}
+
+secPhoto {
+    width: 100%;
+    height: 100%;
+}
+
+secPhotoDiv {
+    margin: 10% 0px;
+    background-color: black;
+    position: relative;
+}
+
+photoText {
+    margin: 0px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -1em;
+    margin-left: -2em;
+}
+
+divider {
+    margin: 0px 1px;
+}
+
+buttons {
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #19594f;
+    color: white
+}
+
+buttons:hover {
+    background-color: #1e6b60;
+    padding: 10px;
+}
+
+element {
+    margin: 15px auto;
+}
+
+
+.filupp-file-name {
+    width: 75%;
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: normal
+}
